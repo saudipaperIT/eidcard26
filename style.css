@@ -264,8 +264,10 @@ width:95%;
 }
 
 #nameDisplay{
-font-size:22px;
+font-size:18px;
+  
 bottom:50px;
-}
+right:60px;
+left:auto;
 
 }
